@@ -1,0 +1,47 @@
+[
+      {
+        "id": 1,
+        "name": "Basic Membership",
+        "features": [
+          "Access to gym facilities",
+          "Cardio equipment usage",
+          "Locker room access"
+        ],
+        "price": 29.99
+      },
+      {
+        "id": 2,
+        "name": "Premium Membership",
+        "features": [
+          "Unlimited access to gym facilities",
+          "Cardio and strength equipment usage",
+          "Group fitness classes",
+          "Locker room access",
+          "Towel service"
+        ],
+        "price": 49.99
+      },
+      {
+        "id": 3,
+        "name": "Family Membership",
+        "features": [
+          "Unlimited access for entire family",
+          "Cardio and strength equipment usage",
+          "Group fitness classes",
+          "Locker room access",
+          "Towel service"
+        ],
+        "price": 79.99
+      },
+      {
+        "id": 4,
+        "name": "Student Discount",
+        "features": [
+          "Access to gym facilities",
+          "Cardio equipment usage",
+          "Locker room access"
+        ],
+        "price": 19.99
+      }
+    ]
+  
